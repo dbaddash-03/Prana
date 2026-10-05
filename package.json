@@ -1,0 +1,7 @@
+{
+  "name": "prana-health-companion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prana: private health companion (documents, medicine reminders, protein and diet tracking, personalised diet and yoga). No build step.",
+  "scripts": { "start": "npx --yes serve . -l 5500" }
+}
